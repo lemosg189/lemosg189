@@ -2,6 +2,8 @@
 <h1 align="center">Hi 👋, I'm Gabriel</h1>
 <h3 align="center">A passionate developer from Brasil</h3>
 
+- 😎 My linkedIn is: https://www.linkedin.com/in/lemosg/
+
 - 🌱 I’m currently learning **react, SQL**
 
 - 👨‍💻 All of my projects are available at [https://github.com/lemosg189](https://github.com/lemosg189)
